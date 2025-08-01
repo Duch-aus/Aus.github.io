@@ -1,6 +1,6 @@
 # 🌍 NeoAus 国家社会模拟服务器
 
-欢迎来到 **新奥斯**！这是一个结合 **社会模拟 + 技术工业 + 战争政治** 的 Minecraft 高自由度服务器。
+欢迎来到 **新奥斯汀**！这是一个结合 **国家社会模拟 + 技术工业 + 战争政治** 的 Minecraft 高自由度服务器。
 
 无论你是热爱经营建设、搞科研发展、还是参与国战围攻，这里都能满足你的玩法！
 
@@ -11,7 +11,7 @@
 - **Java 版本支持**：1.20.1 ~ 1.21.8  
 - **基岩版支持**：1.21.8 ~ 1.21.9（已适配移动端菜单）  
 - **服务器类型**：Java 与基岩互通，菜单完美支持！  
-- **服务器 IP**：[eco.aus.xo.je:26343](http://eco.aus.xo.je:26343)  
+- **服务器 IP**：[eco.aus.xo.je:26343]
 - **官方 QQ 群**：836536388  
 - **制作人**：Aus
 - 运营者:Duch
@@ -107,7 +107,7 @@ Aus 使用经典插件 **Towny Advanced** 实现城市与国家模拟。
 - **加入QQ群**：836536388 获取帮助、反馈建议
 - **服务器地址**：[eco.aus.xo.je:26343](http://eco.aus.xo.je:26343)  
 - **主要作者与维护**：Duch & Aus  
-- 本服所有插件皆为正版开源插件
+- 本服所有插件皆为正版开源插件以及个人购买插件
 - 请勿盗版商用
 
 ---
@@ -266,7 +266,7 @@ Aus 使用经典插件 **Towny Advanced** 实现城市与国家模拟。
 
 ---
 
-## 🏛️ 8. 战争扩展与后期设想(目前未达成)
+## 🏛️ 8. 战争扩展与后期设想
 
 ### 【1】长期战争与控制
 
@@ -340,9 +340,9 @@ Aus 使用经典插件 **Towny Advanced** 实现城市与国家模拟。
 ## 🔗 9. 附件与参考
 
 ### 相关介绍：
-- [SiegeWar 插件官网](https://www.spigotmc.org/resources/siegewars.69667/)
-- [KingdomsX 插件 GitHub](https://github.com/KingdomsX/KingdomsX)
-- [Towny 插件官网](https://www.spigotmc.org/resources/towny-advanced.619/)
+- [SiegeWar 官网](https://www.spigotmc.org/resources/siegewars.69667/)
+- [KingdomsX 官网](https://github.com/KingdomsX/KingdomsX)
+- [Towny 官网](https://www.spigotmc.org/resources/towny-advanced.619/)
 
 ### 服务器配置参考：
 - **国土扩展规则**：每个 KingdomsX 势力的资源点和城镇区块扩展最大限制可由管理员自由配置。
@@ -362,7 +362,7 @@ Aus 使用经典插件 **Towny Advanced** 实现城市与国家模拟。
 
 感谢所有参与测试与建议的玩家，NeoAus 正在不断完善中。
 
-服务器宗旨为打造一个持久稳定、兼顾**社会模拟 + 技术进步 + 政治冲突**的多人环境。如果你热爱城市建设、科技探索或国战攻防，欢迎加入我们的世界！
+服务器宗旨为打造一个持久稳定、兼顾**社会模拟 + 技术进步 + 政治模拟**的多人环境。如果你热爱城市建设、科技探索或国战攻防，欢迎加入我们的世界！
 
 ---
 
